@@ -1,2 +1,2 @@
 # java_component
-this is some componet
+this is some component
