@@ -231,3 +231,75 @@
 2020-04-30 11:27:29,660 INFO [main] g.i.g.l.HelloWorldLogbak [HelloWorldLogbak.java:13] hello world
 2020-04-30 11:27:29,691 INFO [main] g.i.g.l.HelloWorldLogbak [HelloWorldLogbak.java:13] hello world
 2020-04-30 11:27:29,722 INFO [main] g.i.g.l.HelloWorldLogbak [HelloWorldLogbak.java:13] hello world
+2020-06-04 09:56:37,293 INFO [main] g.i.g.GetImageInfoApplicationTests [StartupInfoLogger.java:55] Starting GetImageInfoApplicationTests on GAICHAO1 with PID 13980 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-04 09:56:37,299 DEBUG [main] g.i.g.GetImageInfoApplicationTests [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-04 09:56:37,300 INFO [main] g.i.g.GetImageInfoApplicationTests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-04 09:56:41,207 INFO [main] g.i.g.GetImageInfoApplicationTests [StartupInfoLogger.java:61] Started GetImageInfoApplicationTests in 4.42 seconds (JVM running for 6.74)
+2020-06-04 09:58:21,241 INFO [main] g.i.g.r.ReflectionCache [ReflectionCache.java:12] v1
+2020-06-05 09:33:18,557 INFO [Thread-3] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-3 getId
+2020-06-05 09:33:18,557 INFO [Thread-2] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-2 getId
+2020-06-05 09:33:18,572 INFO [Thread-3] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-3 getId
+2020-06-05 09:33:18,557 INFO [Thread-8] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-8 getId
+2020-06-05 09:33:18,573 INFO [Thread-3] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-3 getId
+2020-06-05 09:33:18,573 INFO [Thread-8] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-8 getId
+2020-06-05 09:33:18,557 INFO [Thread-4] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-4 getId
+2020-06-05 09:33:18,557 INFO [Thread-1] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-1 getId
+2020-06-05 09:33:18,573 INFO [Thread-8] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-8 getId
+2020-06-05 09:33:18,573 INFO [Thread-4] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-4 getId
+2020-06-05 09:33:18,573 INFO [Thread-1] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-1 getId
+2020-06-05 09:33:18,557 INFO [Thread-7] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-7 getId
+2020-06-05 09:33:18,558 INFO [Thread-9] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-9 getId
+2020-06-05 09:33:18,557 INFO [Thread-0] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-0 getId
+2020-06-05 09:33:18,566 INFO [Thread-5] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-5 getId
+2020-06-05 09:33:18,574 INFO [Thread-9] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-9 getId
+2020-06-05 09:33:18,574 INFO [Thread-5] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-5 getId
+2020-06-05 09:33:18,574 INFO [Thread-9] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-9 getId
+2020-06-05 09:33:18,574 INFO [Thread-5] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-5 getId
+2020-06-05 09:33:18,557 INFO [Thread-6] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-6 getId
+2020-06-05 09:33:18,575 INFO [Thread-6] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-6 getId
+2020-06-05 09:33:18,572 INFO [Thread-2] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-2 getId
+2020-06-05 09:33:18,574 INFO [Thread-4] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-4 getId
+2020-06-05 09:33:18,575 INFO [Thread-6] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-6 getId
+2020-06-05 09:33:18,574 INFO [Thread-1] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-1 getId
+2020-06-05 09:33:18,574 INFO [Thread-7] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-7 getId
+2020-06-05 09:33:18,574 INFO [Thread-0] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-0 getId
+2020-06-05 09:33:18,575 INFO [Thread-2] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-2 getId
+2020-06-05 09:33:18,576 INFO [Thread-7] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-7 getId
+2020-06-05 09:33:18,576 INFO [Thread-0] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-0 getId
+2020-06-05 09:34:00,818 INFO [Thread-9] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-9 getId:1
+2020-06-05 09:34:00,826 INFO [Thread-8] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-8 getId:2
+2020-06-05 09:34:00,830 INFO [Thread-9] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-9 getId:1
+2020-06-05 09:34:00,817 INFO [Thread-1] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-1 getId:5
+2020-06-05 09:34:00,830 INFO [Thread-9] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-9 getId:1
+2020-06-05 09:34:00,814 INFO [Thread-6] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-6 getId:0
+2020-06-05 09:34:00,818 INFO [Thread-0] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-0 getId:3
+2020-06-05 09:34:00,831 INFO [Thread-6] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-6 getId:0
+2020-06-05 09:34:00,818 INFO [Thread-2] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-2 getId:4
+2020-06-05 09:34:00,831 INFO [Thread-0] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-0 getId:3
+2020-06-05 09:34:00,831 INFO [Thread-6] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-6 getId:0
+2020-06-05 09:34:00,816 INFO [Thread-5] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-5 getId:6
+2020-06-05 09:34:00,817 INFO [Thread-4] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-4 getId:9
+2020-06-05 09:34:00,830 INFO [Thread-8] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-8 getId:2
+2020-06-05 09:34:00,816 INFO [Thread-7] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-7 getId:8
+2020-06-05 09:34:00,817 INFO [Thread-3] g.i.g.t.TestThreadLocal [TestThreadLocal.java:10] current thead id:Thread-3 getId:7
+2020-06-05 09:34:00,830 INFO [Thread-1] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-1 getId:5
+2020-06-05 09:34:00,833 INFO [Thread-3] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-3 getId:7
+2020-06-05 09:34:00,833 INFO [Thread-3] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-3 getId:7
+2020-06-05 09:34:00,831 INFO [Thread-0] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-0 getId:3
+2020-06-05 09:34:00,832 INFO [Thread-5] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-5 getId:6
+2020-06-05 09:34:00,834 INFO [Thread-5] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-5 getId:6
+2020-06-05 09:34:00,832 INFO [Thread-7] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-7 getId:8
+2020-06-05 09:34:00,832 INFO [Thread-8] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-8 getId:2
+2020-06-05 09:34:00,833 INFO [Thread-1] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-1 getId:5
+2020-06-05 09:34:00,832 INFO [Thread-4] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-4 getId:9
+2020-06-05 09:34:00,831 INFO [Thread-2] g.i.g.t.TestThreadLocal [TestThreadLocal.java:11] current thead id:Thread-2 getId:4
+2020-06-05 09:34:00,835 INFO [Thread-4] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-4 getId:9
+2020-06-05 09:34:00,834 INFO [Thread-7] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-7 getId:8
+2020-06-05 09:34:00,835 INFO [Thread-2] g.i.g.t.TestThreadLocal [TestThreadLocal.java:12] current thead id:Thread-2 getId:4
+2020-06-06 10:00:49,360 INFO [main] g.i.g.c.TestClassComponent [TestClassComponent.java:16] array class:class java.lang.Object
+2020-06-06 10:02:09,300 INFO [main] g.i.g.c.TestClassComponent [TestClassComponent.java:16] array class:class java.lang.Object
+2020-06-06 10:03:04,128 INFO [main] g.i.g.c.TestClassComponent [TestClassComponent.java:20] String class:null
+2020-06-06 10:05:19,751 INFO [main] g.i.g.c.TestClassComponent [TestClassComponent.java:13] array class:class java.lang.String
+2020-06-06 10:05:59,152 INFO [main] g.i.g.c.TestClassComponent [TestClassComponent.java:17] String class:null
+2020-06-06 10:12:06,852 INFO [main] g.i.g.c.TestClassComponent [TestClassComponent.java:12] array class:class java.lang.String
+2020-06-06 10:12:12,618 INFO [main] g.i.g.c.TestClassComponent [TestClassComponent.java:16] String class:null
