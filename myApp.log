@@ -303,3 +303,62 @@
 2020-06-06 10:05:59,152 INFO [main] g.i.g.c.TestClassComponent [TestClassComponent.java:17] String class:null
 2020-06-06 10:12:06,852 INFO [main] g.i.g.c.TestClassComponent [TestClassComponent.java:12] array class:class java.lang.String
 2020-06-06 10:12:12,618 INFO [main] g.i.g.c.TestClassComponent [TestClassComponent.java:16] String class:null
+2020-06-15 10:04:09,293 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 17320 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 10:04:09,300 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 10:04:09,301 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 10:04:13,047 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 4.421 seconds (JVM running for 9.817)
+2020-06-15 10:07:37,559 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 22288 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 10:07:37,571 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 10:07:37,572 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 10:07:41,580 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 4.55 seconds (JVM running for 10.164)
+2020-06-15 10:09:56,311 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 5864 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 10:09:56,322 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 10:09:56,324 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 10:13:29,039 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 17432 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 10:13:29,049 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 10:13:29,051 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 10:13:32,811 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 4.307 seconds (JVM running for 9.948)
+2020-06-15 10:14:44,840 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 45428 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 10:14:44,849 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 10:14:44,850 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 10:14:48,385 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 4.156 seconds (JVM running for 9.828)
+2020-06-15 10:17:41,419 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 44164 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 10:17:41,429 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 10:17:41,430 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 10:17:45,058 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 4.225 seconds (JVM running for 9.022)
+2020-06-15 10:26:08,936 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 42736 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 10:26:08,943 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 10:26:08,946 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 10:26:12,413 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 3.947 seconds (JVM running for 9.004)
+2020-06-15 10:36:02,376 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 31688 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 10:36:02,383 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 10:36:02,384 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 10:36:05,605 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 3.753 seconds (JVM running for 8.367)
+2020-06-15 10:41:48,198 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 48936 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 10:41:48,204 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 10:41:48,205 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 10:41:51,403 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 3.783 seconds (JVM running for 8.291)
+2020-06-15 10:57:17,191 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 43160 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 10:57:17,198 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 10:57:17,199 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 10:57:20,469 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 3.84 seconds (JVM running for 8.508)
+2020-06-15 11:06:53,769 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 49696 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 11:06:53,777 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 11:06:53,779 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 11:06:57,511 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 4.35 seconds (JVM running for 9.873)
+2020-06-15 11:15:50,864 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 46412 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 11:15:50,870 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 11:15:50,871 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 11:15:54,478 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 4.177 seconds (JVM running for 9.113)
+2020-06-15 11:17:14,631 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 46224 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 11:17:14,641 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 11:17:14,642 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 11:17:18,156 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 4.333 seconds (JVM running for 7.875)
+2020-06-15 11:18:05,899 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 43376 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 11:18:05,914 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 11:18:05,915 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 11:18:10,804 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 5.781 seconds (JVM running for 10.153)
+2020-06-15 11:19:24,321 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:55] Starting SpringBootLearningTest on GAICHAO1 with PID 27612 (started by GaiChao in C:\work\git_project\java_component)
+2020-06-15 11:19:24,327 DEBUG [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:56] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-15 11:19:24,328 INFO [main] g.i.g.SpringBootLearningTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 11:19:27,520 INFO [main] g.i.g.SpringBootLearningTest [StartupInfoLogger.java:61] Started SpringBootLearningTest in 3.773 seconds (JVM running for 8.641)
